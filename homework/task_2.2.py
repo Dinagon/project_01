@@ -34,3 +34,5 @@ if n in months:
     print(f'Месяц {n} {months[n]} является частью {quarter[quarter_of(n)]}')
 else:
     print('Введите номер месяца')
+
+quarter_of()
